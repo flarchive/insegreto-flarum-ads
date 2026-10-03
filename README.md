@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of insegreto/flarum-ads.** Not for installation: use [Packagist](https://packagist.org/packages/insegreto/flarum-ads) or the [upstream repository](https://github.com/insegreto/flarum-ads).
 
-**0** versions archived · Latest: [`0.4.9`](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.9) · License: `MIT` · Flarum: `^1.0.0`
+**14** versions archived · Latest: [`0.4.9`](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.9) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.2.8` | 2020-12-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.2.8) |
+| `0.3.0` | 2021-05-31 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.3.0) |
+| `0.3.1` | 2021-06-03 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.3.1) |
+| `0.3.2` | 2021-07-07 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.3.2) |
+| `0.4.0` | 2021-08-01 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.0) |
+| `0.4.1` | 2021-08-01 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.1) |
+| `0.4.2` | 2021-08-01 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.2) |
+| `0.4.3` | 2021-08-01 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.3) |
+| `0.4.4` | 2021-08-01 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.4) |
+| `0.4.5` | 2021-08-01 | `^1.0.0` | [Browse](https://github.com/flarchive/insegreto-flarum-ads/tree/archive/v0.4.5) |
+
+[View all 14 versions](https://github.com/flarchive/insegreto-flarum-ads/tags)
 
 Catalog entry: [packages/insegreto-flarum-ads.json](https://github.com/flarchive/archive-index/blob/main/packages/insegreto-flarum-ads.json)
 
